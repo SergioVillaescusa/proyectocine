@@ -1,0 +1,115 @@
+*{
+margin: 0px;
+padding:0px;
+}
+body{
+    background-color: lightskyblue;
+    
+}
+hr{
+    border: 2px solid red;
+}
+
+a{
+   color: indianred;
+    text-decoration: none;
+    
+}
+H1{
+    color: indianred;
+   text-align: center;
+    font-family: sans-serif;
+    background-color: deepskyblue;
+    padding: 10px;
+    display: block;
+    
+}
+li{
+    display: inline-block; 
+    color:chocolate;
+    background-color: deepskyblue;
+    font-size: 30px;
+    margin-right: 40px;
+    font-family: sans-serif;
+    padding: 10px;
+    
+}
+
+Div{
+  background-color:lightcyan;
+    margin: 200px 50px 5px ;
+    padding:10px;
+    border: 2px solid indianred;
+    text-align: center;
+    
+}
+H2{
+    color: indianred;
+    background-color: burlywood;
+    text-align: center;
+}
+hr{ border: 2px red solid;
+    
+}
+ul{
+    background-color: deepskyblue;
+    text-align: center;
+     font-family: sans-serif;
+
+}
+nav{
+    display: block;
+    top: 0;
+    position: sticky;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0;
+}
+img{
+   margin:20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   border: 2px red solid;
+    width: 65%;    
+}
+p{
+     margin:20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   border: 2px red solid;
+    width: 65%;    
+    background-color: bisque;
+      
+    
+    
+    
+}
+span{
+    color: indianred;
+}
+ul{
+   
+    
+}
+
+table{
+
+    margin-left: auto;
+    margin-right: auto;
+    border:2px red solid;
+    background-color: bisque;
+    display: inline-block
+}
+main{
+    padding: 0 40px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+footer{
+    width: 100%;
+    margin: 0;
+}
